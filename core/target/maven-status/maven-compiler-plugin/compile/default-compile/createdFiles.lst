@@ -1,0 +1,3 @@
+liga\medical\message\queues\core\config\RabbitMQConfig.class
+liga\medical\message\queues\core\service\ListenService.class
+liga\medical\message\queues\core\MessageQueueApplication.class
