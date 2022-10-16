@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"liga.medical.medicalmonitoring"})
+@ComponentScan(basePackages = {"liga.medical.message.queues"})
 public class MessageQueueApplication {
 
     public static void main(String[] args) {
